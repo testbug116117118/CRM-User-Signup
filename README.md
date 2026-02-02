@@ -1,5 +1,6 @@
-# CRM-Employee-API
-CRM Employee API
+# CRM-User-Signup
 
-Review code for a B2B CRM platform that manages employee directories across multiple companies. The API allows authenticated company administrators to view their employee lists and organizational structure. A recent feature update enabled filtering and pagination for large companies. Examine the employee retrieval endpoint to ensure proper access control is enforced between different company accounts.
+Review code for a customer relationship management (CRM) platform that handles sales leads and customer data. The application recently added a self-service signup feature to allow companies to create accounts without sales team involvement. A 
+
+security researcher reported that some users are gaining unauthorized administrative privileges during registration. Examine the user registration flow to identify how privilege escalation might occur.
 
